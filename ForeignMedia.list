@@ -78,24 +78,6 @@ DOMAIN,litvfreemobile-hichannel.cdn.hinet.net,ForeignMedia
 USER-AGENT,mytv*,ForeignMedia
 DOMAIN-SUFFIX,mytvsuper.com,ForeignMedia
 DOMAIN-SUFFIX,tvb.com,ForeignMedia
-# > Netflix
-USER-AGENT,Argo*,ForeignMedia
-DOMAIN-SUFFIX,netflix.com,ForeignMedia
-DOMAIN-SUFFIX,netflix.net,ForeignMedia
-DOMAIN-SUFFIX,nflxext.com,ForeignMedia
-DOMAIN-SUFFIX,nflximg.com,ForeignMedia
-DOMAIN-SUFFIX,nflximg.net,ForeignMedia
-DOMAIN-SUFFIX,nflxso.net,ForeignMedia
-DOMAIN-SUFFIX,nflxvideo.net,ForeignMedia
-IP-CIDR,23.246.0.0/18,ForeignMedia
-IP-CIDR,37.77.184.0/21,ForeignMedia
-IP-CIDR,45.57.0.0/17,ForeignMedia
-IP-CIDR,64.120.128.0/17,ForeignMedia
-IP-CIDR,66.197.128.0/17,ForeignMedia
-IP-CIDR,108.175.32.0/20,ForeignMedia
-IP-CIDR,192.173.64.0/18,ForeignMedia
-IP-CIDR,198.38.96.0/19,ForeignMedia
-IP-CIDR,198.45.48.0/20,ForeignMedia
 # > PBS
 USER-AGENT,PBS*,ForeignMedia
 DOMAIN-SUFFIX,pbs.org,ForeignMedia
@@ -116,12 +98,6 @@ DOMAIN,api.viu.now.com,ForeignMedia
 DOMAIN,d1k2us671qcoau.cloudfront.net,ForeignMedia
 DOMAIN,d2anahhhmp1ffz.cloudfront.net,ForeignMedia
 DOMAIN,dfp6rglgjqszk.cloudfront.net,ForeignMedia
-# > Youtube
-USER-AGENT,com.google.ios.youtube*,ForeignMedia
-USER-AGENT,YouTube*,ForeignMedia
-DOMAIN-SUFFIX,googlevideo.com,ForeignMedia
-DOMAIN-SUFFIX,youtube.com,ForeignMedia
-DOMAIN,youtubei.googleapis.com,ForeignMedia
 
 # (Music)
 # > Deezer
