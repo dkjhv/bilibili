@@ -1,5 +1,7 @@
 脚本来自@blackmatrix7
-bilibili去广告Shadowrocket配置，使用需将相关规则复制到配置里相关模块下
+bilibili去广告Shadowrocket配置，使用需将规则复制到配置里相关模块下（点击配置使用编辑纯文本）
+启用脚本需启用HTTPs解密，并且安装信任证书
+
 
 [URL Rewrite]
 # 去除动态中的话题
