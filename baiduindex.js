@@ -1,3 +1,6 @@
+hostname = m.baidu.com, www.baidu.com
+^https?:\/\/(www|m)\.baidu\.com\/?($|\?(from=\w{8,9}|tn=&from=)) url script-response-body https://raw.githubusercontent.com/Keywos/rule/main/JS/baiduindex.js
+
 /*
 脚本引用https://raw.githubusercontent.com/Keywos/rule/main/JS/baiduindex.js
 */
