@@ -7,4 +7,3 @@ ip-cidr, 239.255.255.250/32, direct
 ip-cidr, 100.64.0.0/10, direct
 ip6-cidr, fe80::/10, direct
 geoip, cn, direct
-final, final
